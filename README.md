@@ -1,10 +1,12 @@
-## Hi there, I'm Thibaut Grasset 👋
+# Hi there, I'm Thibaut Grasset 👋
 
 After 10 years teaching English in middle schools around Paris, I'm embarking on an exciting new journey learning code at 42 school. 
 I've been studying various subjects there since November 2022 and it took me around a year to get through the mandatory Common Core of the cursus.
 Currently spending additional time on 42's advanced projects to build as much general knowledge about various subfields of computer science. 
 
+<div align="center">
 [![tgrasset's 42 stats](https://badge.mediaplus.ma/landscapes/tgrasset?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
+</div>
 
 
 <!--
