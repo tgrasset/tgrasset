@@ -10,4 +10,4 @@ Currently spending additional time on 42's advanced projects to build as much ge
 </div>
 
 ### A few languages and technologies I used:
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,js,ts,react,git,docker,aws,ansible,kubernetes,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,rust,js,ts,java,py,fastapi,react,svelte,postgres,graphql,git,docker,aws,ansible,kubernetes,linux)](https://skillicons.dev)
